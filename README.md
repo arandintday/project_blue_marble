@@ -3,3 +3,4 @@
 ## 依赖 ##
 pip install datetime pillow
 ## 示例图 ##
+![Blue Marble](https://github.com/arandintday/project_blue_marble/raw/master/demo.gif)
